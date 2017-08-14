@@ -225,5 +225,3 @@ $(".slider-layout .HTML .widget-content").each(function () {
       }
     });
 });
-
-   //]]>
